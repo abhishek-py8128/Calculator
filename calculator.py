@@ -184,4 +184,3 @@ sign17.bind('<Button-1>',onclick)
 
 mainloop()  
 
-# Pythonic
