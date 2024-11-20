@@ -183,3 +183,5 @@ sign17.place(x=190.5,y=320,width=50.5)
 sign17.bind('<Button-1>',onclick)
 
 mainloop()  
+
+# Pythonic
